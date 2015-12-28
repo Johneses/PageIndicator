@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PageIndicator">
+        <attr name="number_of_indicators" format="integer" />
+        <attr name="selected_indicator" format="integer" />
+        <attr name="background_empty_indicator" format="reference" />
+        <attr name="background_selected_indicator" format="reference" />
+        <attr name="indicator_size" format="dimension" />
+        <attr name="indicator_margin_left" format="dimension" />
+        <attr name="animation_duration" format="integer" />
+    </declare-styleable>
+
+</resources>
